@@ -1,5 +1,5 @@
 # RNMail
 
-npx react-native start
+yarn start
 
 yarn run android
